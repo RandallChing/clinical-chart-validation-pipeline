@@ -1,4 +1,4 @@
-# csv-validation-pipeline
+# clinical-chart-validation-pipeline
 
 A weekly data integrity audit and staff notification system for a public school health network.
 
@@ -57,7 +57,7 @@ This pipeline automates the detection of those gaps and routes correction notice
 ## Repository Structure
 
 ```
-csv-validation-pipeline/
+clinical-chart-validation-pipeline/
 ├── data/
 │   ├── mock_raw_data.csv          # 33-row synthetic encounter log
 │   ├── mock_master_roles.csv      # 5 fictional staff (all role tiers)

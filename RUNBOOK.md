@@ -72,8 +72,8 @@ Infinite Campus export (manual download)
 
 ```bash
 # Clone the repository
-git clone https://github.com/RandallChing/csv-validation-pipeline.git
-cd csv-validation-pipeline
+git clone https://github.com/RandallChing/clinical-chart-validation-pipeline.git
+cd clinical-chart-validation-pipeline
 
 # Create and activate a virtual environment
 python -m venv .venv
