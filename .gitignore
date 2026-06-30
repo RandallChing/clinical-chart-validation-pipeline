@@ -1,0 +1,29 @@
+# Secrets and credentials — never commit to version control
+credentials.json
+
+# Pipeline output — generated at runtime, not tracked
+output/
+!output/.gitkeep
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variable files
+.env
+.env.*
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+*.sublime-workspace
